@@ -1,0 +1,15 @@
+To run on windows
+
+To run the file first run the install.bat file by the way
+using that way to run is windows only because its a batch file im not
+going to get into why its windows only next you need to open a command promt
+for this next part make sure you have python installed python.org
+in that folder next type "py main.py" then you enter in the playfab id and
+the name for the users to be generated then click enter and there u go
+
+To run on Linux
+
+You guys on linux already probaly know how to run a python file lmao
+basicly the same thing as above but it might give u an error so in your 
+cmd type "pip install colarama" and right after its finished installing that
+type "pip install playfab" and ru nthe file again

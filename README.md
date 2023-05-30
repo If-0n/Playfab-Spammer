@@ -5,7 +5,7 @@ This is a op playfab spammer u enter the id and away it goes!
 
 * Easy to use ui in console
 
-# Donating to klox's projects
+# Donating to If0n's projects
 
 * Tether (Solana) *8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS*
 
